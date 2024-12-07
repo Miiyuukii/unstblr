@@ -35,5 +35,10 @@
     },
     "dev": {
         "0": "unstblr"
+    },
+    "enable": {
+        "staff": "true",
+        "dancer": "false",
+        "vip": "true"
     }
 }
