@@ -1,0 +1,39 @@
+{
+    "staff": {
+        "leaderFM": {
+            "0": "LUS_阿洋",
+            "1": "LUS_Olivia",
+            "2": "LUS_淑梅花",
+            "3": "LUS_Ting Ting",
+            "4": "LUS_ZhùYīngtái",
+            "5": "LUS_Xiāo Lóng",
+            "6": "LUS_Mahina",
+            "7": "LUS_Lanlan"
+        },
+        "leaderM": {
+            "0": "MY-Lonely",
+            "1": "LUS_Pundyy",
+            "2": "LUS_BaiChen",
+            "3": "MY-Σnrapt",
+            "4": "LUS_Zeno",
+            "5": "LUS_唐玄武",
+            "6": "LUS_Jie Feng",
+            "7": "LUS_Shenlong",
+            "8": "LUS_ITID",
+            "9": "LUS_Nonsen",
+            "10": "LUS_Pixiu",
+            "11": "LUS_ZU ZU"
+        },
+        "dancer": {
+            "0": "rurbabe"
+        }
+    },
+    "vip": {
+        "0": "KuroMama",
+        "1": "Anna",
+        "2": "N I C H O L A S"
+    },
+    "dev": {
+        "0": "unstblr"
+    }
+}
