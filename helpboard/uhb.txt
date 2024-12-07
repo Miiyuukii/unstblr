@@ -1,0 +1,46 @@
+{
+    "0": {
+      "name": "Silune - 死路",
+      "date": "Wednesday",
+      "time": "22:00 - 00:00",
+      "status": "Open",
+      "link": "https://discord.gg/Kuenddwwsu",
+      "description": "",
+      "x": "0",
+      "y": "1536",
+      "texNo": "0"
+    },
+    "1": {
+      "name": "ZyaNightBar",
+      "date": "Monday",
+      "time": "20:00 - 22:00",
+      "status": "Open",
+      "link": "https://discord.gg/HRwmVt7gms",
+      "description": "",
+      "x": "512",
+      "y": "1536",
+      "texNum": "0"
+    },
+    "2": {
+      "name": "PORING Maid Cafe",
+      "time": "19:00-21:00",
+      "date": "Thursday, Saturday",
+      "status": "Open",
+      "link": "https://discord.gg/2PGRmhmHC2",
+      "description": "",
+      "x": "1024",
+      "y": "1536",
+      "texNo": "0"
+    },
+    "3": {
+      "name": "Tengoku Night Club",
+      "date": "Saturday",
+      "time": "20:00 - 22:00",
+      "status": "Open",
+      "link": "https://discord.com/invite/9YeNnpyKKv",
+      "description": "",
+      "x": "1536",
+      "y": "1536",
+      "texNo": "0"
+    }
+  }
