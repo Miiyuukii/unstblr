@@ -1,46 +1,206 @@
 {
   "0": {
-    "q": "1+1",
-    "a": "2"
+    "q": "If you eat a pizza backwards, are you un-eating it?<br>1.Yes<br>2.No<br>3.Only on Thursdays<br>4.I don't like pizza.",
+    "a": "1"
   },
   "1": {
-    "q": "1+2",
-    "a": "3"
-  },
-  "2": {
-    "q": "1+3",
+    "q": "Why did the chicken cross the road?<br>1.To get to the other side<br>2.It was lost<br>3.For fun<br>4.It was a duck in disguise.",
     "a": "4"
   },
+  "2": {
+    "q": "If you put socks on your hands, are they gloves?<br>1.Yes<br>2.No<br>3.Hand socks<br>4.Socks are socks.",
+    "a": "3"
+  },
   "3": {
-    "q": "1+4",
-    "a": "5"
+    "q": "Can you cry underwater?<br>1.Yes<br>2.No<br>3.Fish do it all the time<br>4.Water is already wet.",
+    "a": "3"
   },
   "4": {
-    "q": "1+5",
-    "a": "6"
+    "q": "If you are invisible and close your eyes, can you see through your eyelids?<br>1.Yes<br>2.No<br>3.Only if you're magic<br>4.Why would I be invisible?",
+    "a": "3"
   },
   "5": {
-    "q": "1+6",
-    "a": "7"
+    "q": "Is cereal soup?<br>1.Yes<br>2.No<br>3.Only if it's hot<br>4.Cereal is life.",
+    "a": "2"
   },
   "6": {
-    "q": "1+7",
-    "a": "8"
+    "q": "If you spin in a chair fast enough, do you become a tornado?<br>1.Yes<br>2.No<br>3.Only if you're cool<br>4.I hate spinning.",
+    "a": "3"
   },
   "7": {
-    "q": "1+8",
-    "a": "9"
+    "q": "Do penguins have knees?<br>1.Yes<br>2.No<br>3.Only in Antarctica<br>4.Penguins are spies.",
+    "a": "1"
   },
   "8": {
-    "q": "1+9",
-    "a": "10"
+    "q": "If you pour milk before cereal, is it illegal?<br>1.Yes<br>2.No<br>3.Depends on the country<br>4.Milk rules!",
+    "a": "3"
   },
   "9": {
-    "q": "1+10",
-    "a": "11"
+    "q": "Is the moon just the sun's mirror?<br>1.Yes<br>2.No<br>3.Only at night<br>4.Moons are cheese.",
+    "a": "4"
   },
   "10": {
-    "q": "1+11",
-    "a": "12"
+    "q": "If you draw a mustache on a banana, is it a banana man?<br>1.Yes<br>2.No<br>3.Banana with style<br>4.I prefer apples.",
+    "a": "3"
+  },
+  "11": {
+    "q": "If a vampire bites a zombie, does the zombie become a vampire or vice versa?<br>1.Vampire zombie<br>2.Zombie vampire<br>3.Both<br>4.Neither.",
+    "a": "1"
+  },
+  "12": {
+    "q": "Why are donuts round?<br>1.Easier to hold<br>2.Science<br>3.Circle of life<br>4.Triangle donuts are weird.",
+    "a": "3"
+  },
+  "13": {
+    "q": "Can you high-five yourself?<br>1.Yes<br>2.No<br>3.It's called clapping<br>4.Only ninjas can.",
+    "a": "3"
+  },
+  "14": {
+    "q": "Is ketchup a smoothie?<br>1.Yes<br>2.No<br>3.Only if it's fancy<br>4.I prefer mustard.",
+    "a": "2"
+  },
+  "15": {
+    "q": "If you put butter on toast, is it still bread?<br>1.Yes<br>2.No<br>3.Buttered bread<br>4.Toast is superior.",
+    "a": "4"
+  },
+  "16": {
+    "q": "If a tree falls in a forest and no one is around, does it make a sound?<br>1.Yes<br>2.No<br>3.It whispers secrets<br>4.Trees don't talk.",
+    "a": "3"
+  },
+  "17": {
+    "q": "Can you walk a fish on a leash?<br>1.Yes<br>2.No<br>3.Only if it's amphibious<br>4.Fish hate exercise.",
+    "a": "3"
+  },
+  "18": {
+    "q": "If you freeze water, is it still wet?<br>1.Yes<br>2.No<br>3.It's ice now<br>4.I'm confused.",
+    "a": "3"
+  },
+  "19": {
+    "q": "If you stack two lasagnas, is it one big lasagna?<br>1.Yes<br>2.No<br>3.Double-decker lasagna<br>4.I like spaghetti better.",
+    "a": "3"
+  },
+  "20": {
+    "q": "Why do we call it a 'pair of pants' when it's one item?<br>1.Because English<br>2.It has two legs<br>3.It's funnier this way<br>4.Pants are overrated.",
+    "a": "2"
+  },
+  "21": {
+    "q": "Can you lick your elbow?<br>1.Yes<br>2.No<br>3.Only if you're flexible<br>4.Why would you?",
+    "a": "3"
+  },
+  "22": {
+    "q": "If you had two heads, would you need two hats?<br>1.Yes<br>2.No<br>3.One big hat<br>4.Headbands are cooler.",
+    "a": "3"
+  },
+  "23": {
+    "q": "Is a hot dog a sandwich?<br>1.Yes<br>2.No<br>3.It's a taco<br>4.Hot dogs are mysterious.",
+    "a": "3"
+  },
+  "24": {
+    "q": "If you mix all colors, do you get a rainbow?<br>1.Yes<br>2.No<br>3.You get brown<br>4.Rainbows are magic.",
+    "a": "4"
+  },
+  "25": {
+    "q": "Why is the sky blue?<br>1.Science<br>2.Because it's sad<br>3.To match the ocean<br>4.Sky fashion.",
+    "a": "3"
+  },
+  "26": {
+    "q": "If you turn a book upside down, is it still a book?<br>1.Yes<br>2.No<br>3.It's an upside-down book<br>4.Books don't care.",
+    "a": "3"
+  },
+  "27": {
+    "q": "Can you eat soup with a fork?<br>1.Yes<br>2.No<br>3.Not the broth<br>4.I drink soup.",
+    "a": "3"
+  },
+  "28": {
+    "q": "Do mirrors lie?<br>1.Yes<br>2.No<br>3.Only at night<br>4.Mirrors don't talk.",
+    "a": "4"
+  },
+  "29": {
+    "q": "If you wear sunglasses at night, is it cool or weird?<br>1.Cool<br>2.Weird<br>3.Both<br>4.I lost my sunglasses.",
+    "a": "3"
+  },
+  "30": {
+    "q": "If you eat a clock, does time pass slower?<br>1.Yes<br>2.No<br>3.Clockwise only<br>4.Time tastes weird.",
+    "a": "4"
+  },
+  "31": {
+    "q": "Can you sneeze with your eyes open?<br>1.Yes<br>2.No<br>3.Only ninjas can<br>4.I'm not sure.",
+    "a": "2"
+  },
+  "32": {
+    "q": "If you hold your breath, do you float better?<br>1.Yes<br>2.No<br>3.Only in space<br>4.Floating is for fish.",
+    "a": "1"
+  },
+  "33": {
+    "q": "Is a taco a sandwich?<br>1.Yes<br>2.No<br>3.It's a folded sandwich<br>4.Tacos are special.",
+    "a": "4"
+  },
+  "34": {
+    "q": "If you hiccup while burping, what happens?<br>1.Explosion<br>2.Nothing<br>3.You get superpowers<br>4.Hiccups cancel burps.",
+    "a": "3"
+  },
+  "35": {
+    "q": "If you yell in space, does anyone hear you?<br>1.Yes<br>2.No<br>3.Aliens do<br>4.Space is quiet.",
+    "a": "4"
+  },
+  "36": {
+    "q": "Can you boil water by yelling at it?<br>1.Yes<br>2.No<br>3.Only if you're loud<br>4.Science is weird.",
+    "a": "2"
+  },
+  "37": {
+    "q": "If you jump in the air, does the Earth move a little?<br>1.Yes<br>2.No<br>3.Only if you're heavy<br>4.Gravity doesn't care.",
+    "a": "1"
+  },
+  "38": {
+    "q": "If you eat glowing food, do you glow?<br>1.Yes<br>2.No<br>3.Only at night<br>4.Glowing is cool.",
+    "a": "3"
+  },
+  "39": {
+    "q": "Can you tickle yourself?<br>1.Yes<br>2.No<br>3.Only your feet<br>4.Tickling is for others.",
+    "a": "2"
+  },
+  "40": {
+    "q": "If you shave a beard off a statue, does it grow back?<br>1.Yes<br>2.No<br>3.Only marble statues<br>4.Statues don't shave.",
+    "a": "4"
+  },
+  "41": {
+    "q": "Can you microwave a snowball?<br>1.Yes<br>2.No<br>3.Only in winter<br>4.Snow hates microwaves.",
+    "a": "1"
+  },
+  "42": {
+    "q": "Why do we park on driveways and drive on parkways?<br>1.Because English<br>2.To confuse people<br>3.Tradition<br>4.I don't know.",
+    "a": "1"
+  },
+  "43": {
+    "q": "If you draw a smiley face on a potato, is it alive?<br>1.Yes<br>2.No<br>3.Potatoes are magical<br>4.Alive in spirit.",
+    "a": "4"
+  },
+  "44": {
+    "q": "Can you pet a cloud?<br>1.Yes<br>2.No<br>3.Only if it's fluffy<br>4.Clouds are shy.",
+    "a": "3"
+  },
+  "45": {
+    "q": "If you laugh too hard, can you run out of laughs?<br>1.Yes<br>2.No<br>3.Laughing is infinite<br>4.Laugh batteries.",
+    "a": "3"
+  },
+  "46": {
+    "q": "If you wear socks on your ears, are they earmuffs?<br>1.Yes<br>2.No<br>3.Sockmuffs<br>4.My ears are cold.",
+    "a": "3"
+  },
+  "47": {
+    "q": "Is a pancake just a flat cake?<br>1.Yes<br>2.No<br>3.It's a breakfast miracle<br>4.I like waffles.",
+    "a": "3"
+  },
+  "48": {
+    "q": "If a cat could talk, would it be sarcastic?<br>1.Yes<br>2.No<br>3.Only on Mondays<br>4.Cats are always sarcastic.",
+    "a": "4"
+  },
+  "49": {
+    "q": "If you flip a burger twice, is it back to where it started?<br>1.Yes<br>2.No<br>3.Burger physics<br>4.Flipping is an art.",
+    "a": "3"
+  },
+  "50": {
+    "q": "Can a shadow run faster than you?<br>1.Yes<br>2.No<br>3.Shadows are lazy<br>4.It depends on the light.",
+    "a": "4"
   }
 }
