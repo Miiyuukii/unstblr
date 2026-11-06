@@ -1,0 +1,14 @@
+name: Cleanup Old Artifacts
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs every Sunday at midnight
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove Old Artifacts
+        uses: c-hive/gha-remove-artifacts@v2
+        with:
+          age: '7 days' # Keep artifacts only for 7 days
+          skip-tags: true # Avoid deleting artifacts tied to releases
