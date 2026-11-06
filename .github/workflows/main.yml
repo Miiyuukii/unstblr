@@ -7,9 +7,10 @@ on:
 jobs:
   cleanup:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Remove Old Artifacts
-        uses: c-hive/gha-remove-artifacts@v2
+        uses: c-hive/gha-remove-artifacts@v1
         with:
           age: '7 days' # Keep artifacts only for 7 days
           skip-tags: true # Avoid deleting artifacts tied to releases
